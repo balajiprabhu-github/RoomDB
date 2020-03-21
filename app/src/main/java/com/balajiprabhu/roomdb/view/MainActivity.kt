@@ -1,7 +1,8 @@
-package com.balajiprabhu.roomdb
+package com.balajiprabhu.roomdb.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.balajiprabhu.roomdb.R
 
 class MainActivity : AppCompatActivity() {
 
